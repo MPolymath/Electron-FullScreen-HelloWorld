@@ -1,0 +1,11 @@
+{
+  "apps" : [
+    {
+    "script"    : "./autorun.sh",
+      "name"      : "watchy",
+      "log_date_format" : "YYYY-MM-DD HH:mm:ss Z",
+      "exec_mode" : "fork"
+    }
+  ]
+}
+
